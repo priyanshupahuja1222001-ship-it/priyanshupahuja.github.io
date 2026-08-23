@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://priyanshupahuja1222001-ship-it.github.io/priyanshupahuja.github.io/sitemap.xml
